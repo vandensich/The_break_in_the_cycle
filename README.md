@@ -57,7 +57,7 @@ install.packages("dMod")
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/The_break_in_the_cycle.git
+   git clone https://github.com/vandensich/The_break_in_the_cycle.git
    ```
 
 2. Open RStudio and load one of the main scripts for a specific condition (e.g. `model_full.R` inside a condition folder).
