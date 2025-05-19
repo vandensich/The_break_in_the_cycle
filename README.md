@@ -84,7 +84,7 @@ If you use this repository, please cite:
 ## 👤 Author
 
 **Jacques Hermes**
-Department of Data Management
+Physics Institute
 University of Freiburg
 [jacques.hermes@fdm.uni-freiburg.de](mailto:jacques.hermes@fdm.uni-freiburg.de)
 
